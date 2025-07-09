@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 - i can create dashboards and help costumers get a better view on their products
 - i can analyze data sets and get data driven decisions 
 - i can search for interesting correlations between parameters
-- i am currently leaarning linux and hoping to specialize in data engnieering
+- i am currently learning linux and hoping to specialize in data engnieering
 
 
 
